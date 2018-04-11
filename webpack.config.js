@@ -20,7 +20,7 @@ const config = {
 			},
 			{
 				test: /\.jsx$/,
-				loader: 'bable-loader'
+				loader: 'babel-loader'
 			},
 			{
 				test: /\.css$/,
